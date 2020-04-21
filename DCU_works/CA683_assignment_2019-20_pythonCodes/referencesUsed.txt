@@ -1,4 +1,4 @@
-reference:
+references:
 
 https://www.kaggle.com/erikbruin/airbnb-the-amsterdam-story-with-interactive-maps
 
@@ -9,3 +9,33 @@ https://medium.com/@bobhaffner/folium-markerclusters-and-fastmarkerclusters-1e03
 #https://www.kaggle.com/erikbruin
 
 #https://github.com/pape1412/airbnb/blob/master/notebooks/q1_airbnb_popularity.ipynb
+
+https://github.com/eduardoburgoa/airbnb-valencia/blob/master/airbnb_valencia_analysis.ipynb
+
+
+
+-------------------
+
+https://www.linkedin.com/pulse/chapter-1-introduction-crisp-dm-framework-data-science-anshul-roy
+http://www.proglobalbusinesssolutions.com/six-steps-in-crisp-dm-the-standard-data-mining-process/
+http://www2.cs.uregina.ca/~dbd/cs831/notes/kdd/1_kdd.html
+7. KNN on the data: https://www.dataquest.io/blog/machine-learning-tutorial/
+10. linear model : 
+https://towardsdatascience.com/predicting-airbnb-prices-with-machine-learning-and-location-data-5c1e033d0a5a
+how much money can we make with airbnb in berlin - 
+https://github.com/pape1412/airbnb/blob/master/notebooks/q2_airbnb_income.ipynb
+factors influencing income of airbnb apartment - 
+https://github.com/pape1412/airbnb/blob/master/notebooks/q3_airbnb_income_features.ipynb
+8. decision tree and random forest in Airbnb - 
+https://towardsdatascience.com/predicting-airbnb-prices-in-lisbon-trees-and-random-forests-336d19cdf5a2
+https://github.com/josetapadas/airbnb-lisbon-model-trees/blob/master/utf-8''TreesLisbonAirbnb.ipynb
+11. EDA : https://github.com/adodd202/Airbnb_Scraping/blob/master/Python_EDA.ipynb
+15. Random forest: https://github.com/MangoTheCat/Modelling-Airbnb-Prices (not used)
+9. regression - https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/
+23. best regression with H0 and RF: https://github.com/shouvikmani/AirbnbDataAnalysis/blob/master/Analyzing_Airbnb_in_New_York_City.ipynb
+17. decision tree : https://github.com/BigtoC/Data-Mining-of-Edinburgh-Airbnb/blob/master/data-mining.ipynb
+19. simple linear regression: https://github.com/adamhoward56/Airbnb/blob/master/CMSC320%20Airbnb%20Final%20Data%20Exploration.ipynb
+18. price with other city: https://github.com/Dima806/Airbnb_project/blob/master/airbnb_final_analysis_v3.ipynb
+
+https://www.kaggle.com/erikbruin/airbnb-the-amsterdam-story-with-interactive-maps
+https://gist.github.com/jinglescode/08d21b680bd11008c73083f9645d6b1d#file-seattle-airbnb-open-data-ipynb
