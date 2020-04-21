@@ -1,0 +1,11 @@
+reference:
+
+https://www.kaggle.com/erikbruin/airbnb-the-amsterdam-story-with-interactive-maps
+
+https://medium.com/@bobhaffner/folium-markerclusters-and-fastmarkerclusters-1e03b01cb7b1
+
+#https://github.com/ruchigupta19/Boston-Airbnb-data-analysis
+
+#https://www.kaggle.com/erikbruin
+
+#https://github.com/pape1412/airbnb/blob/master/notebooks/q1_airbnb_popularity.ipynb
