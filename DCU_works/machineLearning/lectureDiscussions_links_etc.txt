@@ -1,0 +1,68 @@
+.5 spearman score
+
+load hmp to numpy array
+
+
+https://medium.com/open-knowledge/label-recognition-with-orb-da2b0260f4e4
+https://medium.com/open-knowledge/label-recognition-with-orb-da2b0260f4e4
+
+
+What are the significance of nb_short-term_annotations are nb_long-term_annotations in ground truth files?
+
+nb_xxxx_term_annotations are the number of annotations which was used to calculate the memorability score
+
+
+https://datascience.stackexchange.com/questions/39742/creating-a-feature-by-combining-2-features-with-different-units
+
+
+http://ceur-ws.org/Vol-2283/
+
+C3D - numpy array
+
+
+https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem
+
+
+keras,pytorch,tensorflow - easiest?
+
+
+ensembling should be done -- 
+
+
+links followed:
+https://github.com/Khalees2/Video-Memorability-Predection-using-Machine-Learning/blob/master/memorability.ipynb
+
+
+https://github.com/justprophet/Memorability-of-videos/blob/master/code/MemorabilityWithInception.ipynb
+https://github.com/justprophet/Memorability-of-videos/blob/master/code/Memorability_of_Videos.ipynb
+
+https://github.com/swathikiran86/Predicting-Video-Memorability-Scores/blob/master/Models_Exploration.ipynb
+
+https://github.com/Harshali02/Memorability-Prediction/tree/master/Predictions
+
+https://github.com/Alekhya-Singh/Predicting-Video-Memorability-Score/blob/master/MediaEval_Memorability_Prediction_with_Captions.ipynb
+
+
+https://github.com/stonemason11/multimedia_2018
+
+https://github.com/AkihisaNishikawa/CA684-Machine-Learning/blob/master/Project_Akihisa_Nishikawa_CA684.ipynb
+
+
+
+
+
+
+https://github.com/harshalchaudhari35/MediaEval-Media-Memorability/blob/master/memorability.ipynb
+
+https://github.com/arunabellgutteramesh/VideoMemorabilityPredictionUsingML/blob/master/Code/Aruna_BellgutteRamesh_18210858_CA684.ipynb
+
+https://github.com/dee-corr/Video-Memorability-NN/blob/master/deirdre_corr_18214743_CA684.ipynb
+
+
+
+
+https://github.com/ShamsulAbedin/CA684I/blob/master/Shamsul_CA684I_kaggle_MediaEval_C3D_HMP_testing_1.ipynb
+
+https://github.com/karljmurphy/ca684
+
+
