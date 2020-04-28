@@ -2,8 +2,13 @@
 
 load hmp to numpy array
 
+
+check the tutorial
+
+see all the videos given, to understand the problem.
+
 https://www.w3resource.com/numpy/manipulation/squeeze.php
-tqdm
+tqdm - suggested by Yash
 pyprind
 
 What are the significance of nb_short-term_annotations are nb_long-term_annotations in ground truth files?
@@ -15,8 +20,20 @@ C3D - numpy array
 keras,pytorch,tensorflow - better?
 
 
+
+
 ensembling would be better -- 
 
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+https://www.geeksforgeeks.org/how-to-use-glob-function-to-find-files-recursively-in-python/
+http://openaccess.thecvf.com/content_ICCV_2017_workshops/w40/html/Shekhar_Show_and_Recall_ICCV_2017_paper.html
+https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.melt.html
+https://www.pluralsight.com/guides/overview-basic-numpy-operations
+https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
+https://stackoverflow.com/questions/44424594/converting-numpy-array-into-dataframe-column
+http://ceur-ws.org/Vol-2283/MediaEval_18_paper_31.pdf
+https://docs.w3cub.com/scikit_learn/modules/generated/sklearn.ensemble.adaboostregressor/
+https://stackoverflow.com/questions/40758562/can-anyone-explain-me-standardscaler
 https://kavita-ganesan.com/tfidftransformer-tfidfvectorizer-usage-differences/
 https://datascience.stackexchange.com/questions/25581/what-is-the-difference-between-countvectorizer-token-counts-and-tfidftransformer
 https://www.quora.com/What-is-the-difference-between-TfidfVectorizer-and-CountVectorizer-1
@@ -61,7 +78,7 @@ https://www.quora.com/How-can-I-choose-the-best-K-in-KNN-K-nearest-neighbour-cla
 https://github.com/Alekhya-Singh/Predicting-Video-Memorability-Score/
 https://stackoverflow.com/questions/49008074/how-to-create-a-neural-network-for-regression
 https://www.geeksforgeeks.org/sklearn-feature-extraction-with-tf-idf/
-
+https://www.tutorialspoint.com/python_pandas/python_pandas_series.htm
 
 
 
