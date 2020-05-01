@@ -7,8 +7,8 @@ Features used:
 HMP
 C3D
 C3D with HMP
-captions with count vectorizer
-captions with tf-idf
+captions using count vectorizer
+captions using tf-idf
 captions with HMP
 captions with C3D
 
@@ -23,4 +23,4 @@ AdaBoostRegressor
 GradientBoostingRegressor
 Neural Network 
 
-After analyzing the spearman's score for all of them, the best regressor was used on the test set.
+After analyzing the spearman's score for all of them, the best regressor was used for the test set.
