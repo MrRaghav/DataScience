@@ -1,0 +1,1 @@
+Codes practiced from link: https://course.spacy.io/en/
